@@ -1,0 +1,14 @@
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\EmployeeCRUD.deps.json
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\EmployeeCRUD.runtimeconfig.json
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\EmployeeCRUD.runtimeconfig.dev.json
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\EmployeeCRUD.dll
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\EmployeeCRUD.pdb
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\obj\Debug\netcoreapp1.1\EmployeeCRUD.AssemblyInfo.cs
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\obj\Debug\netcoreapp1.1\EmployeeCRUD.dll
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\obj\Debug\netcoreapp1.1\EmployeeCRUD.pdb
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\Debug\netcoreapp1.1\EmployeeCRUD.deps.json
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\Debug\netcoreapp1.1\EmployeeCRUD.runtimeconfig.json
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\Debug\netcoreapp1.1\EmployeeCRUD.runtimeconfig.dev.json
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\Debug\netcoreapp1.1\EmployeeCRUD.dll
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\bin\Debug\netcoreapp1.1\EmployeeCRUD.pdb
+G:\WCFNET\EmployeeCRUD\EmployeeCRUD\obj\Debug\netcoreapp1.1\EmployeeCRUD.csprojResolveAssemblyReference.cache
